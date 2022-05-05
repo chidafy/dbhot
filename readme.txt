@@ -1,0 +1,1 @@
+请依次打开netdisc_server和netdisc_client两个包中的main.py，运行后，根据提示依次选择功能使用即可。
